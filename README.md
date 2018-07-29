@@ -7,11 +7,12 @@ LogisticRegression (L1/L2) / SVM
   原始数据集地址：https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
  
 ## 2 数据说明：
+
   数据集（diabetes.csv）：二分类分类问题。
   每个类的样本数目数量不均等。一共有 768 个样本，每个样本有 8 个输入变量和 1 个输出变量。
   缺失值通常用零值编码。
 
-### 1)字段说明
+## 3 字段说明：
 
   Pregnancies： 怀孕次数
   Glucose： 口服葡萄糖耐受试验中，2 小时的血浆葡萄糖浓度。

@@ -9,12 +9,12 @@ LogisticRegression (L1/L2) / SVM
 ## 2 数据说明：
 
   数据集（diabetes.csv）：二分类分类问题。<br>
-  每个类的样本数目数量不均等。一共有 768 个样本，每个样本有 8 个输入变量和 1 个输出变量。
-  缺失值通常用零值编码。
+  每个类的样本数目数量不均等。一共有 768 个样本，每个样本有 8 个输入变量和 1 个输出变量。<br>
+  缺失值通常用零值编码。<br>
 
 ## 3 字段说明：
 
-  Pregnancies： 怀孕次数
+  Pregnancies： 怀孕次数<br>
   Glucose： 口服葡萄糖耐受试验中，2 小时的血浆葡萄糖浓度。
   BloodPressure： 舒张压（mm Hg）
   SkinThickness： 三头肌皮肤褶层厚度（mm）

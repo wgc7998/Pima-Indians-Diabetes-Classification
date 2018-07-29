@@ -2,7 +2,7 @@
 LogisticRegression (L1/L2) / SVM
 
 ## 1 任务描述：
-    Pima Indians Diabetes Data Set（皮马印第安人糖尿病数据集），根据现有的医疗信息预测5年内皮马印第安人糖尿病发作的概率。
+    根据现有的医疗信息预测5年内皮马印第安人糖尿病发作的概率。
   
     原始数据集地址：https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
  
